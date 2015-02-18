@@ -1,0 +1,58 @@
+body {
+	font-family: 'Old Standard TT', serif;
+	padding: 0px;
+	margin: 0px;
+}
+.container {
+	width: 300px;
+	height: 400px;
+	margin: 25% auto;
+	border: 2px solid blue;	
+	background: #d3d3d3;
+}
+span {
+	width: 280px;
+	height: 200px;
+	margin: 0 auto;
+	border: 2px solid yellow;
+	display: block;	
+	background-color: #fff;
+}
+.left_side {
+	width: 50%;
+	height: 200px;
+	border: 2px solid red;
+	display: inline-block;
+	text-align: right;
+}
+.left_side button, .middle button {
+	height: 45px;
+	width: 45px;
+	color: #6a6969;
+}
+.middle {
+	height: 200px;
+	width: 50px;
+	border: 2px solid purple;
+	display: inline-block;
+}
+
+.right_side {
+	width: 75px;
+	height: 150px;
+	border: 2px solid red;
+	display: inline-block;
+	vertical-align: top;
+	height: 195px;
+
+}
+#neg {
+	height: 45px;
+	width: 45px;
+}
+#calc {
+	height: 140px;
+}
+#square_root {
+	
+}
